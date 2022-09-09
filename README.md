@@ -3,16 +3,10 @@
 This is a reading list on the task of Emotion Cause Analysis. The initial version forked from [NUSTM/ECA-Reading-List](https://github.com/NUSTM/ECA-Reading-List)
 
 
-### Contents
+
+[TOC]
 
 
-- [1. Emotion-Cause Pair Extraction (ECPE)](#1-emotion-cause-pair-extraction-ecpe)
-- [2. Emotion Cause Extraction (ECE)](#2-emotion-cause-extraction-ece)
-  - [2.1 Span-level ECE](#21-span-level-ece)
-  - [2.2 Clause-level ECE](#22-clause-level-ece)
-  - [2.3 Multi-level ECE](#23-multi-level-ece)
-- [3. Other Tasks](#3-other-tasks)
-- [4. Datasets](#4-datasets)
 
 ## 1. Emotion-Cause Pair Extraction (ECPE)
 1. Weichun Huang, Yixue Yang, Xiaohui Huang, Zhiying Peng & Liyan Xiong. **[Emotion-cause pair extraction based on interactive attention](https://link.springer.com/article/10.1007/s10489-022-03873-x)**. Applied Intelligence 2022. 
